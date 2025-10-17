@@ -1,15 +1,28 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog de Yoël Gómez</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="hero">
+    <h1>¡Hola, soy Yoël Gómez 👋!</h1>
+    <p>Descripción corta</p>
+    <a href="blog.html" class="btn">Leer el blog</a>
+    <button id="toggle-dark" class="dark-btn">🌙</button>
+  </header>
 
-<h1>{{ site.title }}</h1>
-<p>{{ site.description }}</p>
+  <section class="about">
+    <h2>Sobre mí</h2>
+    <p>Soy estudiante de Desarrollo de Aplicaciones Web apasionado por crear experiencias digitales atractivas. En este blog comparto mis aprendizajes y proyectos.</p>
+  </section>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - 
-      <small>{{ post.date | date: "%d/%m/%Y" }}</small>
-    </li>
-  {% endfor %}
-</ul>
+  <footer>
+    <p>© 2025 Yoël Gómez</p>
+  </footer>
+
+  <script src="assets/script.js"></script>
+</body>
+</html>
