@@ -1,0 +1,12 @@
+title: "Diario DIWEB - Yoyi"
+description: "Registro de actividades y proyectos de la asignatura DIWEB."
+baseurl: "/GitHub-Page-DIWEB"
+url: "https://yoyi-88.github.io/GitHub-Page-DIWEB"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+permalink: /:year/:month/:day/:title/
+exclude:
+  - Gemfile.lock
