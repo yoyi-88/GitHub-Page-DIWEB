@@ -8,6 +8,8 @@ excerpt: "Registro y resultados de la primera práctica."
 
 Aquí va la descripción de la actividad, pasos seguidos, capturas (subirlas a `assets/img/`), código relevante y conclusiones.
 
+¡[ejemplo imagen](assets/img/fotoEjemplo.jpg)
+
 ### Objetivo
 Explicar el objetivo de la actividad.
 
