@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Actividad 2 — Práctica de CSS Grid"
+date: 2025-10-20 10:00:00 +0100
+categories: [DIWEB, prácticas]
+excerpt: "Aprendiendo a maquetar con CSS Grid."
+---
+
+En esta práctica trabajamos con **CSS Grid** para estructurar páginas modernas y responsivas.
+
+## Objetivos
+- Comprender las propiedades básicas de Grid.
+- Crear un layout adaptativo para escritorio y móvil.
+
+## Código
+```css
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
