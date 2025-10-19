@@ -2,7 +2,7 @@
 
 Blog Jekyll basado en el tema **Minima**, para publicar actividades de la asignatura DIWEB.
 - Usuario GitHub: yoyi-88
-- URL prevista: https://yoyi-88.github.io/GitHub-Page-DIWEB
+- URL: https://yoyi-88.github.io/GitHub-Page-DIWEB
 
 ## Uso rápido
 1. Clona este repositorio.
