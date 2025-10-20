@@ -7,4 +7,4 @@ excerpt: "Práctica de html 5"
 ---
 
 [Demo práctica 1](/GitHub-Page-DIWEB/proyectos/Ejercicio-Web-HTML5/webCerveza.html)
-}
+
