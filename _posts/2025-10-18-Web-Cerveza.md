@@ -6,5 +6,5 @@ categories: [DIWEB, prácticas]
 excerpt: "Práctica de HTML 5"
 ---
 
-[Demo práctica 1](/GitHub-Page-DIWEB/proyectos/Ejercicio-Web-HTML5/webCerveza.html)
+[Demo práctica 1](/GitHub-Page-DIWEB/proyectos/Ejercicio-Web-HTML5/index.html)
 
